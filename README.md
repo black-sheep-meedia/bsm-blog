@@ -27,26 +27,22 @@ Follow these steps to get a local copy of the project up and running.
 1.  **Clone the repository:**
 
     ```
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
-    cd your-repository
-
+    git clone [git@github.com:black-sheep-meedia/bsm-blog.git](git@github.com:black-sheep-meedia/bsm-blog.git).
+    cd bsm-blog
     ```
 
 2.  **Initialize the theme (if it's a submodule):**
 
     ```
     git submodule update --init --recursive
-
     ```
 
 ### Local Development
 
 To see your site live as you work, run Hugo's built-in development server. This will watch for changes and rebuild the site automatically.
 
-````
-
+```
 hugo server
-
 ```
 
 Navigate to `http://localhost:1313` in your browser to view the site.
@@ -68,14 +64,12 @@ The key directories in a Hugo project are:
 To add a new blog post, use the following command:
 
 ```
-
 hugo new posts/my-new-post.md
-
 ```
 
 This will create a new Markdown file with a pre-populated front matter in the `content/posts/` directory.
 
 ## Theme
 
-This site uses the **\[Theme Name]** theme. You can find more information and documentation for the theme at **\[link to theme's documentation]**.
+This site uses the **\[Ananke]** theme. You can find more information and documentation for the theme at [https://ananke-theme.netlify.app/](https://ananke-theme.netlify.app/).
 
