@@ -1,4 +1,33 @@
 baseURL = 'https://blog.blacksheepmeedia.com/'
 languageCode = 'en-us'
 title = 'Black Sheep Meedia – Blog'
-theme = 'ananke'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  description = 'AI-powered editorial solutions and insights for modern media'
+  author = 'Black Sheep Meedia Team'
+  keywords = ['AI', 'media', 'editorial', 'journalism', 'content', 'automation']
+  
+
+[params.homeInfoParams]
+  Title = 'Black Sheep Meedia Blog'
+  Content = 'AI-powered editorial solutions and insights for modern media'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about'
+    weight = 20
+  [[menu.main]]
+    identifier = 'contact'
+    name = 'Contact'
+    url = '/contact'
+    weight = 30
+

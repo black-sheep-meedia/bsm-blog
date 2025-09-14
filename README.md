@@ -1,16 +1,20 @@
-# Hugo Blog
+# Black Sheep Meedia Blog
 
-This repository contains the source code for a personal or project blog built using [Hugo](https://gohugo.io/), a fast and modern static site generator.
+This repository contains the source code for the Black Sheep Meedia blog, built using [Hugo](https://gohugo.io/) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. This blog showcases AI-powered editorial solutions and insights for modern media.
 
 ## Features
 
 * **Blazing Fast:** Built with Hugo, this site is compiled into static HTML, making it incredibly fast and secure.
 
-* **Simple Content Management:** All content is written in Markdown, which is easy to read and write.
+* **Modern Design:** Uses the PaperMod theme with dark/light mode, search functionality, and mobile responsiveness.
 
-* **Version Controlled:** The entire site, including content, is managed with Git.
+* **AI-Focused Content:** Dedicated to sharing insights on AI integration in editorial workflows.
 
-* **Responsive Design:** The theme used is fully responsive and looks great on all devices.
+* **Automated Deployment:** GitHub Actions automatically builds and deploys to GitHub Pages.
+
+* **Scheduled Posts:** Daily builds ensure scheduled content is published automatically.
+
+* **Slack Notifications:** Get notified of deployment status via Slack.
 
 ## Getting Started
 
@@ -26,14 +30,14 @@ Follow these steps to get a local copy of the project up and running.
 
 1.  **Clone the repository:**
 
-    ```
-    git clone [git@github.com:black-sheep-meedia/bsm-blog.git](git@github.com:black-sheep-meedia/bsm-blog.git).
+    ```bash
+    git clone https://github.com/black-sheep-meedia/bsm-blog.git
     cd bsm-blog
     ```
 
-2.  **Initialize the theme (if it's a submodule):**
+2.  **Initialize the PaperMod theme submodule:**
 
-    ```
+    ```bash
     git submodule update --init --recursive
     ```
 
@@ -57,19 +61,56 @@ The key directories in a Hugo project are:
 
 * **`static/`**: Files placed here (like images, CSS, JavaScript) will be copied directly to the root of the generated site.
 
-* **`config.toml`**: The main configuration file for the entire site.
+* **`hugo.toml`**: The main configuration file for the entire site.
+
+* **`.github/workflows/`**: GitHub Actions workflow for automated deployment.
 
 ## Adding Content
 
 To add a new blog post, use the following command:
 
-```
+```bash
 hugo new posts/my-new-post.md
 ```
 
 This will create a new Markdown file with a pre-populated front matter in the `content/posts/` directory.
 
+## Deployment
+
+The blog is automatically deployed to GitHub Pages using GitHub Actions:
+
+- **Trigger**: Every push to the `main` branch
+- **Schedule**: Daily at 6 AM UTC (for scheduled posts)
+- **URL**: https://blog.blacksheepmeedia.com
+- **Notifications**: Slack notifications for deployment status
+
 ## Theme
 
-This site uses the **\[Ananke]** theme. You can find more information and documentation for the theme at [https://ananke-theme.netlify.app/](https://ananke-theme.netlify.app/).
+This site uses the **[PaperMod](https://github.com/adityatelange/hugo-PaperMod)** theme, which provides:
+
+- Modern, clean design perfect for professional blogs
+- Dark/light mode toggle
+- Built-in search functionality
+- Mobile responsive design
+- SEO optimization
+- Fast loading times
+
+## Custom Domain
+
+The blog is configured to use the custom domain `blog.blacksheepmeedia.com`. DNS configuration is required to point this domain to GitHub Pages.
+
+## Scheduled Posts
+
+To create scheduled posts, add a `publishDate` in the front matter:
+
+```yaml
+---
+title: "Future Post"
+date: 2024-01-15T10:00:00Z
+publishDate: 2024-01-20T10:00:00Z
+draft: false
+---
+```
+
+The daily GitHub Actions workflow will automatically publish posts when their `publishDate` is reached.
 
