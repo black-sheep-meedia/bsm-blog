@@ -1,7 +1,7 @@
 ---
 title: "The Great Reskilling: Why AI is About to Change Everything for Media Professionals"
 date: '2025-08-08T23:35:43-03:00'
-draft: true
+draft: false
 author: "Black Sheep Meedia Press"
 tags: ["AI", "media", "journalism", "reskilling", "upskilling", "future of work", "startup"]
 description: "A blog post exploring how the rise of AI is creating an urgent need for reskilling and upskilling in the media industry, and why a new mindset is crucial for success."
