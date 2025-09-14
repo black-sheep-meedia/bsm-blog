@@ -24,8 +24,12 @@ theme = 'PaperMod'
     url = '/'
     weight = 10
   [[menu.main]]
-    identifier = 'contact'
-    name = 'Contact'
-    url = '/contact'
+    identifier = 'website'
+    name = 'Website'
+    url = 'https://blacksheepmeedia.com'
     weight = 20
-
+  [[menu.main]]
+    identifier = 'website'
+    name = 'Website'
+    url = 'https://blacksheepmeedia.com'
+    weight = 30
