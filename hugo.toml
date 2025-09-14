@@ -1,4 +1,4 @@
 baseURL = 'https://blog.blacksheepmeedia.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Black Sheep Meedia – Blog'
 theme = 'ananke'
