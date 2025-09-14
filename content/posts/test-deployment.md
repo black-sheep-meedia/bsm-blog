@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Future of Media: AI-Powered Editorial Workflows"
 date: 2025-06-15T10:00:00Z
-draft: true
+draft: false
 tags: ["AI", "media", "editorial", "innovation", "workflow"]
 categories: ["announcements"]
 author: "Black Sheep Meedia Team"
