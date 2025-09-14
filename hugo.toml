@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Black Sheep Meedia – Blog'
 theme = 'PaperMod'
 
+# Google Analytics (optional - add your tracking ID when ready)
+# GoogleAnalytics = 'GA_TRACKING_ID'
+
 [params]
   env = 'production'
   description = 'AI-powered editorial solutions and insights for modern media'
