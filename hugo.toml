@@ -9,18 +9,10 @@ theme = 'PaperMod'
   author = 'Black Sheep Meedia Team'
   keywords = ['AI', 'media', 'editorial', 'journalism', 'content', 'automation']
   
-[params.assets]
-  favicon = '/favicon.ico'
-  favicon16 = '/favicon-16x16.png'
-  favicon32 = '/favicon-32x32.png'
-  apple_touch_icon = '/apple-touch-icon.png'
-  safari_pinned_tab = '/safari-pinned-tab.svg'
 
 [params.homeInfoParams]
   Title = 'Black Sheep Meedia Blog'
   Content = 'AI-powered editorial solutions and insights for modern media'
-  HomeImgSrc = '/images/logo.png'
-  HomeImgAlt = 'Black Sheep Meedia Logo'
 
 [menu]
   [[menu.main]]
@@ -39,8 +31,3 @@ theme = 'PaperMod'
     url = '/contact'
     weight = 30
 
-[params.socialIcons]
-  email = 'mailto:hello@blacksheepmeedia.com'
-  github = 'https://github.com/black-sheep-meedia'
-  linkedin = 'https://linkedin.com/company/blacksheepmeedia'
-  twitter = 'https://twitter.com/blacksheepmeedia'

@@ -10,10 +10,9 @@ Ready to revolutionize your editorial workflow with AI? We'd love to hear from y
 
 ## Get in Touch
 
-- **Email**: hello@blacksheepmeedia.com
+- **Email**: sales@blacksheepmeedia.com
 - **Website**: [blacksheepmeedia.com](https://blacksheepmeedia.com)
-- **LinkedIn**: [linkedin.com/company/blacksheepmeedia](https://linkedin.com/company/blacksheepmeedia)
-- **Twitter**: [@blacksheepmeedia](https://twitter.com/blacksheepmeedia)
+- **LinkedIn**: [linkedin.com/company/black-sheep-meedia](https://www.linkedin.com/company/black-sheep-meedia)
 
 ## Our Services
 
