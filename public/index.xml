@@ -1,19 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 08 Aug 2025 23:35:43 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Great Reskilling: Why AI is About to Change Everything for Media Professionals</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 08 Aug 2025 23:35:43 -0300</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;The future of work is not a distant concept; it&amp;rsquo;s already here. According to the World Economic Forum&amp;rsquo;s (WEF) Future of Jobs Report 2025, a staggering 39% of key skills required in the job market will change by 2030. While this number represents a significant shift, it also highlights an even more profound truth for the media industry: the demand for roles driven by technological advancements like artificial intelligence (AI) is growing quickly.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Black Sheep Meedia – Blog</title><link>https://blog.blacksheepmeedia.com/</link><description>Recent content on Black Sheep Meedia – Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://blog.blacksheepmeedia.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Black Sheep Meedia</title><link>https://blog.blacksheepmeedia.com/about/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0000</pubDate><guid>https://blog.blacksheepmeedia.com/about/</guid><description>&lt;h1 id="about-black-sheep-meedia">About Black Sheep Meedia&lt;/h1>
+&lt;p>We are pioneers in integrating artificial intelligence into editorial workflows, dedicated to revolutionizing the media landscape. Our mission is to empower editorial teams with AI-driven tools that optimize workflows, save time, and enhance content quality.&lt;/p>
+&lt;h2 id="our-vision">Our Vision&lt;/h2>
+&lt;p>To transform the media industry by making AI accessible, practical, and beneficial for editorial teams worldwide. We believe that AI should augment human creativity, not replace it.&lt;/p>
+&lt;h2 id="what-we-do">What We Do&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Content Radar&lt;/strong>: Real-time global development tracking&lt;/li>
+&lt;li>&lt;strong>Smart Recommendations&lt;/strong>: AI-powered content discovery&lt;/li>
+&lt;li>&lt;strong>Media Insights&lt;/strong>: Automated analysis and summarization&lt;/li>
+&lt;li>&lt;strong>Content Promotion&lt;/strong>: Social media optimization for younger audiences&lt;/li>
+&lt;li>&lt;strong>Newsroom Transformation&lt;/strong>: Complete AI adoption support&lt;/li>
+&lt;/ul>
+&lt;h2 id="our-commitment">Our Commitment&lt;/h2>
+&lt;p>At Black Sheep Meedia, we are committed to delivering better content with less effort, ensuring your editorial team stays sharp and ahead in the ever-evolving media industry.&lt;/p></description></item><item><title>Contact Us</title><link>https://blog.blacksheepmeedia.com/contact/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0000</pubDate><guid>https://blog.blacksheepmeedia.com/contact/</guid><description>&lt;h1 id="contact-black-sheep-meedia">Contact Black Sheep Meedia&lt;/h1>
+&lt;p>Ready to revolutionize your editorial workflow with AI? We&amp;rsquo;d love to hear from you.&lt;/p>
+&lt;h2 id="get-in-touch">Get in Touch&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:hello@blacksheepmeedia.com">hello@blacksheepmeedia.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Website&lt;/strong>: &lt;a href="https://blacksheepmeedia.com">blacksheepmeedia.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/company/blacksheepmeedia">linkedin.com/company/blacksheepmeedia&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Twitter&lt;/strong>: &lt;a href="https://twitter.com/blacksheepmeedia">@blacksheepmeedia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="our-services">Our Services&lt;/h2>
+&lt;ul>
+&lt;li>AI-powered content discovery&lt;/li>
+&lt;li>Editorial workflow optimization&lt;/li>
+&lt;li>Newsroom transformation consulting&lt;/li>
+&lt;li>Custom AI solutions for media companies&lt;/li>
+&lt;/ul>
+&lt;h2 id="lets-talk">Let&amp;rsquo;s Talk&lt;/h2>
+&lt;p>Whether you&amp;rsquo;re looking to implement AI in your newsroom or need help optimizing your editorial processes, we&amp;rsquo;re here to help. Contact us today to schedule a consultation.&lt;/p></description></item><item><title>Test Post</title><link>https://blog.blacksheepmeedia.com/posts/test/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0000</pubDate><guid>https://blog.blacksheepmeedia.com/posts/test/</guid><description>&lt;p>This is a simple test post with just one line of text.&lt;/p></description></item></channel></rss>
