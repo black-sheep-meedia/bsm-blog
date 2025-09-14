@@ -1,4 +1,4 @@
-baseURL = 'https://blog.blacksheepmeedia.com/'
+baseURL = 'https://blacksheepmeedia.com/bsm-blog/'
 languageCode = 'en-us'
 title = 'Black Sheep Meedia – Blog'
 theme = 'PaperMod'
