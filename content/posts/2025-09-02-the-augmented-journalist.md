@@ -1,6 +1,6 @@
 ---
 title: "The Augmented Journalist: Redefining the Role with AI"
-date: 2025-09-09T10:00:00Z
+date: 2025-09-02T10:00:00Z
 draft: false
 tags: ["AI in Journalism", "Journalist Productivity", "Newsroom Automation", "Human-AI Collaboration", "Journalism & Technology"]
 categories: ["Journalism & Technology"]
