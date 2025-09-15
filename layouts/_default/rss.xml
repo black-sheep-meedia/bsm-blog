@@ -9,7 +9,7 @@
     {{ with .OutputFormats.Get "RSS" }}
     <atom:link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}" />
     {{ end }}
-    {{ range .Pages }}
+    {{ range .Site.RegularPages }}
       <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
